@@ -1,1 +1,1 @@
-# Symfony-Recipes
+# Symfony Recipes
